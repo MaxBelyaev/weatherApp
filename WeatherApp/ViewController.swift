@@ -100,6 +100,7 @@ class ViewController: UIViewController, UISearchResultsUpdating, UITableViewData
             cell.tempMaxLabel.text = "Max: N/A"
         }
         
+        
 //        cell.tempMinLabel.text = self.offerModel.list![indexPath.row].main!.temp_min!.description
 //        cell.tempLabel.text = self.offerModel.list![indexPath.row].main!.temp!.description
 //        cell.tempMaxLabel.text = self.offerModel.list![indexPath.row].main!.temp_max!.description
